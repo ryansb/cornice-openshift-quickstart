@@ -10,4 +10,4 @@ hello = Service(name='hello', path='/', description="Simplest app")
 def get_info(request):
     """Returns Hello in JSON."""
     return {'Hello': 'World'
-            'Open'; 'Shift'}
+            'Open': 'Shift'}
